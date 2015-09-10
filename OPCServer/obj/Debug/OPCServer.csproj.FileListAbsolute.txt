@@ -1,0 +1,9 @@
+c:\users\karol\documents\visual studio 2013\Projects\OPCServer\OPCServer\bin\Debug\OPCServer.exe.config
+c:\users\karol\documents\visual studio 2013\Projects\OPCServer\OPCServer\bin\Debug\OPCServer.exe
+c:\users\karol\documents\visual studio 2013\Projects\OPCServer\OPCServer\bin\Debug\OPCServer.pdb
+c:\users\karol\documents\visual studio 2013\Projects\OPCServer\OPCServer\bin\Debug\UnifiedAutomation.UaBase.dll
+c:\users\karol\documents\visual studio 2013\Projects\OPCServer\OPCServer\bin\Debug\UnifiedAutomation.UaClient.dll
+c:\users\karol\documents\visual studio 2013\Projects\OPCServer\OPCServer\bin\Debug\UnifiedAutomation.UaServer.dll
+c:\users\karol\documents\visual studio 2013\Projects\OPCServer\OPCServer\obj\Debug\OPCServer.csprojResolveAssemblyReference.cache
+c:\users\karol\documents\visual studio 2013\Projects\OPCServer\OPCServer\obj\Debug\OPCServer.exe
+c:\users\karol\documents\visual studio 2013\Projects\OPCServer\OPCServer\obj\Debug\OPCServer.pdb

@@ -1,0 +1,26 @@
+###########################
+# UaModeler Project File  #
+# Generated at 22.03.2015 #
+###########################
+
+PROJECTNAME = OPCServer
+
+TEMPLATESET = ($TEMPLATES)/net/v2_3/t8/net_server.tt2set
+
+MODELS += ($MODELS)/Opc.Ua.NodeSet2.ua \
+    opcserver.ua
+
+VARIABLES+= opcserver.ua: Namespace=OPCServer; Organization=del; 
+
+COLORS = ($MODELS)/Opc.Ua.NodeSet2.ua: #0000ff\
+    opcserver.ua: #008000
+
+PROJECTVARIABLES += GenerateDefaultApplication = false \
+    NetFramework = 4.5 \
+    ProjectNamespace = OPCServer \
+    ProjectOrganization = 
+
+OUTPUTPATH = 
+
+GENERATE += opcserver.ua
+

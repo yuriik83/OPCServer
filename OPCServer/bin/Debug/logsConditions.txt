@@ -1,0 +1,35 @@
+22-03-2015 19:11:39 - pogodnie temp. -1 °C. Wiatr Variable z pred. 1 km/h
+22-03-2015 19:13:28 - pogodnie temp. -1 °C. Wiatr Variable z pred. 1 km/h
+22-03-2015 19:14:22 - pogodnie temp. -1 °C. Wiatr Variable z pred. 1 km/h
+22-03-2015 19:18:09 - pogodnie temp. -1 °C. Wiatr Variable z pred. 1 km/h
+22-03-2015 19:23:43 - pogodnie temp. -1 °C. Wiatr Variable z pred. 1 km/h
+22-03-2015 19:30:11 - pogodnie temp. -1 °C. Wiatr Variable z pred. 1 km/h
+22-03-2015 19:33:13 - pogodnie temp. -1 °C. Wiatr Variable z pred. 1 km/h
+22-03-2015 19:33:34 - pogodnie temp. -1 °C. Wiatr Variable z pred. 1 km/h
+22-03-2015 19:34:35 - pogodnie temp. -1 °C. Wiatr North z pred. 0 km/h
+22-03-2015 19:35:35 - pogodnie temp. -1 °C. Wiatr North z pred. 0 km/h
+22-03-2015 19:36:35 - pogodnie temp. -1 °C. Wiatr North z pred. 0 km/h
+22-03-2015 19:43:03 - pogodnie temp. -1 °C. Wiatr North z pred. 0 km/h
+22-03-2015 20:09:39 - pogodnie temp. -3 °C. Wiatr Variable z pred. 1 km/h
+22-03-2015 20:11:09 - pogodnie temp. -3 °C. Wiatr Variable z pred. 1 km/h
+22-03-2015 20:51:45 - pogodnie temp. -2 °C. Wiatr North z pred. 0 km/h
+22-03-2015 22:26:39 - pogodnie temp. -3 °C. Wiatr NNE z pred. 4 km/h
+22-03-2015 22:30:50 - pogodnie temp. -3 °C. Wiatr NNE z pred. 4 km/h
+22-03-2015 22:31:14 - pogodnie temp. -3 °C. Wiatr NNE z pred. 4 km/h
+25-03-2015 19:06:53 - obłoki zanikające temp. 13 °C. Wiatr ENE z pred. 5 km/h
+25-03-2015 19:09:15 - obłoki zanikające temp. 13 °C. Wiatr ENE z pred. 5 km/h
+25-03-2015 19:16:40 - obłoki zanikające temp. 13 °C. Wiatr ENE z pred. 5 km/h
+26-03-2015 15:13:15 - przewaga chmur temp. 17 °C. Wiatr SSW z pred. 5 km/h
+26-03-2015 15:21:18 - przewaga chmur temp. 17 °C. Wiatr SSW z pred. 5 km/h
+05-04-2015 14:47:15 - obłoki zanikające temp. 3 °C. Wiatr WNW z pred. 7 km/h
+05-04-2015 15:02:17 - obłoki zanikające temp. 3 °C. Wiatr WNW z pred. 7 km/h
+05-04-2015 15:17:18 - obłoki zanikające temp. 4 °C. Wiatr NNW z pred. 8 km/h
+05-04-2015 15:20:34 - obłoki zanikające temp. 4 °C. Wiatr NNW z pred. 8 km/h
+05-04-2015 15:23:21 - obłoki zanikające temp. 4 °C. Wiatr NNW z pred. 8 km/h
+05-04-2015 15:23:58 - obłoki zanikające temp. 4 °C. Wiatr NNW z pred. 8 km/h
+05-04-2015 15:26:08 - obłoki zanikające temp. 4 °C. Wiatr NNW z pred. 8 km/h
+08-04-2015 19:49:26 - przewaga chmur temp. 8 °C. Wiatr West z pred. 7 km/h
+08-04-2015 19:50:52 - przewaga chmur temp. 8 °C. Wiatr West z pred. 7 km/h
+08-04-2015 19:53:54 - przewaga chmur temp. 8 °C. Wiatr West z pred. 7 km/h
+08-04-2015 19:55:25 - przewaga chmur temp. 8 °C. Wiatr West z pred. 7 km/h
+08-04-2015 19:55:59 - przewaga chmur temp. 8 °C. Wiatr West z pred. 7 km/h
